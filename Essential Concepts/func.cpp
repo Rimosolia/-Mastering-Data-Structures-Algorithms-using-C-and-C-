@@ -48,7 +48,7 @@ int main()
     int *ptr, sz = 5;
     ptr = fun(sz);
     for(int i = 0; i< sz; i++)
-    {
+    {   
         cout<<ptr[i]<<endl;
     }
 }
